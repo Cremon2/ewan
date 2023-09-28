@@ -1,6 +1,9 @@
 .body {
     background-color: #fff;
 }
+p{
+    text-indent: 50px;
+}
 
 .navbar1 ul li{
     list-style: none;
